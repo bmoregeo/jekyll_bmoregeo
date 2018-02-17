@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Biodiversity Gradients"
+date: 2008-05-15T09:00:00
+categories: ["Portfolio"]
+excerpt: >
+ <p>This project came about during an argument between a friend and I. After reading an article by Dr. M.J. McDonnell, I proclaimed that it was completely logical that species diversity would be higher in urban areas compared to rural. </p>
+---
+<p>This project came about during an argument between a friend and I. After reading an article by Dr. M.J. McDonnell, I proclaimed that it was completely logical that species diversity would be higher in urban areas compared to rural. After all I noted, human development creates a fragmented landscapes with tons of diverse ecosystems and gradients between ecosystems. My friend rebutted that urban ecosystems are less pure resulting in habitat only suitable for a minority of species. In this paper, I utilized some of the methods used by M.J. McDonnell in New York on Baltimore City, Maryland to test the hypothesis of the Urban-Rural Biodiversity Gradient. Due to time constraints, only fourteen 400 square meter sample sites were used in this project. The sample sites were chosen on a 20 kilometer transect through the gwynns falls watershed, and BES research area, of West Baltimore. Each sample site was well within a deciduous forest area as identified by Maryland Department of Planning’s land use / land cover data. Using a GPS unit, I navigated to the coordinates of each sample sites exported from ArcGIS. At each sample site, the number, types and dimensions of the trees were collected. This data was then fed into an excel spreadsheet and the simpson diversity index was calculated for each site. Finally I analyzed the findings to determine whether there was a noticible difference from urban to rural. Unfortunately, the few number of sample sites hindered the application of this research study. Although a gradient existed within the data, it was inside of the margin of error. In the future I would like to go back and perform this analysis again, with many more sample sites and a lot more time.</p>
+
